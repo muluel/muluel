@@ -16,6 +16,8 @@
 > ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=F05033)
 > ![Jinja](https://img.shields.io/badge/jinja-black.svg?style=for-the-badge&logo=jinja&logoColor=white)
 > ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+> ![NestJS](https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=F05033)
+> ![NodeJS](https://img.shields.io/badge/node.js-eeeeee?style=for-the-badge&logo=node.js&logoColor=009639)
 
 > **Front-End** : ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 > ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
@@ -26,9 +28,9 @@
 > -->
 
 > **Dev-ops** : 
-> ![Terraform](https://img.shields.io/badge/terraform-ffffff?style=for-the-badge&logo=terraform&logoColor=purple)
+> ![Terraform](https://img.shields.io/badge/terraform-eeeeee?style=for-the-badge&logo=terraform&logoColor=purple)
 > ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-> ![ArgoCD](https://img.shields.io/badge/argocd-ffffff?style=for-the-badge&logo=argo&logoColor=orange)
+> ![ArgoCD](https://img.shields.io/badge/argocd-eeeeee?style=for-the-badge&logo=argo&logoColor=orange)
 > ![Harbor](https://img.shields.io/badge/harbor-32577A?style=for-the-badge&logo=harbor&logoColor=white)
 > ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 > ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
